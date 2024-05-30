@@ -5,6 +5,10 @@ Welcome to the Productivity Increase Due to Alcohol Visualization repository! Th
 
 ![Figure_19292](https://github.com/Rishit-katiyar/Productivity-Alcohol-Visualization/assets/167756997/ad37a8fb-d05c-4967-954d-8e7a4a8e2fc1)
 
+## Does Alcohol Increase Productivity?
+
+Yes, alcohol consumption can increase productivity, but only within certain limits and for a limited duration. Moderate alcohol intake can lead to relaxation and reduced inhibitions, potentially boosting creativity and social interactions, which can contribute to short-term productivity gains. However, it's crucial to emphasize moderation, as excessive alcohol consumption can quickly lead to impaired cognitive function, decreased productivity, and long-term health risks. Therefore, while alcohol may have temporary benefits for productivity, it's essential to consume it responsibly and in moderation to avoid negative consequences.
+
 ## Installation
 Follow these steps to set up the visualization environment:
 
