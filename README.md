@@ -63,7 +63,4 @@ This project is licensed under the GNU General Public License v3.0. See the [LIC
 - This visualization was inspired by research on the effects of alcohol consumption on productivity and physiological functions.
 - Special thanks to the creators of Matplotlib for providing powerful visualization tools in Python.
 
-## Support
-If you encounter any problems or have questions about using this repository, feel free to contact [yourusername](https://github.com/yourusername).
-
 Happy visualizing! 🎉
