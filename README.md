@@ -1,4 +1,4 @@
-# 🚀 Productivity Increase Due to Alcohol Visualization 🍺📊
+# 🚀 Productivity Increase Due to Alcohol : Visualization 🍺📊
 
 ## Description
 Welcome to the Productivity Increase Due to Alcohol Visualization repository! This repository contains Python code for visualizing the relationship between alcohol consumption and productivity. The visualization showcases the effects of alcohol on various physiological and cognitive aspects, including blood thinning, productivity boost, alcohol metabolism, heart rate increase, cognitive function, and their combined effects over time.
