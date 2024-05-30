@@ -40,7 +40,7 @@ Follow these steps to set up the visualization environment:
 After installing the dependencies, you can run the Python script to generate the visualization:
 
 ```
-python visualize.py
+python main.py
 ```
 
 This will generate the visualization and display it in a new window.
